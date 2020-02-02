@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 
 const MovieListPage = () => (
   <Layout>
-    <SEO title="utakai" />
+    <SEO title="movieList" />
     <h1>上映リスト</h1>
     <h2>2020年</h2>
     <ol>
