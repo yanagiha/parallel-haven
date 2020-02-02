@@ -1,0 +1,2 @@
+# parallel-haven
+my homepage
